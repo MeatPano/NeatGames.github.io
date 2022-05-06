@@ -1,0 +1,14 @@
+body{
+  background-color: #1c1c1c;
+}
+
+h1{
+  color: white;
+}
+
+.box1{
+  background-color: grey;
+  width: 600px;
+  height: 40px;
+  margin: right;
+}
